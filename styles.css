@@ -31,3 +31,6 @@ body {
 h3 {
     color: black;
 }
+h1 {
+    text-shadow: 0px 0px 5px black;
+}
