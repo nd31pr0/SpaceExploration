@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://media.giphy.com/media/FY9chKp6rulXy/giphy.gif");
+   margin: 0;
     background-size: cover;
     color: white;
     text-align: center;
@@ -22,4 +22,12 @@ body {
     height: 50px;
     border: 2px solid white;
     margin-top: 50px;
+}
+.hero {
+    background-image: url("https://media.giphy.com/media/FY9chKp6rulXy/giphy.gif");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+h3 {
+    color: black;
 }
